@@ -8,6 +8,9 @@
   <li>Custom NBT Icons</li>
 </ul>
 
+<h2>How does storage save?</h2>
+<p>The storage saves the items, when you place items into empty slots! NBT is also stored into villagers custom redstone NBT tags.</p>
+
 <h2>How it was written in:</h2>
 <ul>
   <li>Json</li>
